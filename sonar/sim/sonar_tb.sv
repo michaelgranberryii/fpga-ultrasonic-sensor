@@ -1,6 +1,6 @@
 `timescale 1ns/1ps
 module sonar_tb;
-    parameter clk_freq = 125_000_000;
+    parameter clk_freq = 1_000_000;
     logic clk;
     logic rst;
     logic trig;
@@ -31,12 +31,15 @@ initial begin
     rst = 0;
     #CP;
 
-    #60_011_000;
+end
+
+always begin
+    #4_000_000;
     ech = 1;
-    #120_000;
+    #100_000;
     ech = 0;
 
-    #10000000;
+    #1000;
 end
 
 endmodule
