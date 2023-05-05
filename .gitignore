@@ -1,4 +1,5 @@
-build
+sonar/build
+vga-uart/build
 .vscode
 .cache
 
