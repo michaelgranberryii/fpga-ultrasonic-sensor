@@ -10,7 +10,7 @@ This project uses SystemVerilog to interface the an HC-SR04 ultrasonic distance 
 
 ### Hardware
 
-* [Zybo Z7-10](https://digilent.com/shop/zybo-z7-zynq-7000-arm-fpga-soc-development-board/?gad_source=1&gclid=Cj0KCQiAkeSsBhDUARIsAK3tiedDBNo96Tg5VWCeuEqzXgPKJSFg8GQ0qwLCV-v5TlTKltLerrQGLDkaAjBgEALw_wcB)
+* [Zybo Z7-10 FPGA SoC Development Board](https://digilent.com/shop/zybo-z7-zynq-7000-arm-fpga-soc-development-board/?gad_source=1&gclid=Cj0KCQiAkeSsBhDUARIsAK3tiedDBNo96Tg5VWCeuEqzXgPKJSFg8GQ0qwLCV-v5TlTKltLerrQGLDkaAjBgEALw_wcB)
 * [Ultrasonic Distance Sensor - HC-SR04](https://www.sparkfun.com/products/15569)
 * [SSD PMOD](https://digilent.com/shop/pmod-ssd-seven-segment-display/)
 
