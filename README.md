@@ -6,6 +6,8 @@ Zybo Z7-10 FPGA SoC Development Board:  Ultrasonic Sensor Controller
 
 This project uses SystemVerilog to interface an HC-SR04 ultrasonic distance sensor with the Zybo Z7-10 and display the distance readings on an SSD PMOD (seven segment display).
 
+### Demo
+
 [Demo Video](https://youtu.be/ovZSUVAvq5Y)
 
 ## Dependencies
